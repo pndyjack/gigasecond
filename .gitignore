@@ -1,0 +1,8 @@
+/target/
+Cargo.lock
+.solution.json
+lib.exe
+lib.pdb
+main.exe
+main.pdb
+src/main.rs
